@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "Lolitas of the World",
+    "slug": "lolitas-of-the-world",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.lolitasoftheworld.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./adaptive-icon.png",
+        "backgroundColor": "#F8096B"
+      }
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lolitasoftheworld.app"
+    },
+    "web": {
+      "favicon": "./favicon.png"
+    }
+  }
+}
